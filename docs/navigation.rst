@@ -179,22 +179,27 @@ when that group is both visible and active (item hidden).
 
 **shaded view of solid model**
   The 3D part is displayed as an opaque solid, with lighting effects to
-  give the impression of depth.  This icon may be used to hide that
-  view.
+  give the impression of depth.
+
+  This icon is used toggle that effect on or off.
 
 **edges of solid model**
   Lines are drawn wherever two different surfaces of the solid model
   meet. If edges are shown but shaded is hidden, then a wireframe
   display results. The display of meshes may be noticeably slower when
   edges are shown.  The display of NURBS surfaces will not be
-  noticeably slower when edges are shown.  The color of the edges may
-  be set in the line styles.
+  noticeably slower when edges are shown.
+
+  The color of the edges may be set in the line styles.
 
 **triangle mesh of solid model**
+  Use this icon to show the triangles on the model.
+  
   The 3d model of the part consists of many triangles; for example, a
-  rectangular face is represented by two triangles.  Use this icon to
-  show the triangles on the model.  This is a good way to see how fine
-  or coarse the mesh is before exporting it.
+  rectangular face is represented by two triangles. 
+
+  This is a good way to see how fine or coarse the mesh is before
+  exporting it.
 
 **hidden lines**
   With the part in a given orientation, some of the lines in the part
