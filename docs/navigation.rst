@@ -34,8 +34,13 @@ zooming.
 Most commands are available in three different ways: from a menu, from
 a keyboard shortcut, or from the toolbar.  The toolbar is displayed at
 the top left of the graphics window.  To learn what an icon means,
-hover the mouse over it.  To show or hide the toolbar, choose
-:menuselection:`View --> Show Toolbar`
+hover the mouse over it.
+
+To show or hide the menu bar, choose :menuselection:`View --> Show Menu
+Bar` or press :kbd:`C+F12`.
+
+To show or hide the toolbar, choose :menuselection:`View --> Show
+Toolbar`.
 
 To zoom to the extent of the part, choose :menuselection:`View --> Zoom
 to Fit`.  This adjusts the zoom level so that the part fits exactly on
@@ -86,16 +91,20 @@ places where a dimension is expected, it's possible to enter an
 arithmetic expression ("4*20 + 7") instead of a single number.
 
 
-Text Window
-===========
+Property Browser
+================
 
-The text window appears as a floating palette window.  It may be shown
-or hidden by pressing Tab, or by choosing View → Show Text Window.
+The propery browser pallette appears as a floating palette window.
+It may be shown or hidden by pressing Tab, or by choosing
+:menuselection:`View --> Show Property Browser`.
 
 The text window works like a web browser.  Any underlined text is a
 link.  To activate a link, click it with the mouse.  The links may be
 used to navigate to other pages in the text window.  For example, the
 "home" screen is a list of groups in the sketch:
+
+..  image:: images/ref-text-window.png
+    :alt: the text window
 
 To navigate to a group's page, click that group's name (e.g.,
 "g002-sketch-in-plane").  The links may also trigger actions in the
