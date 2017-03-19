@@ -7,7 +7,7 @@ and a rectangle are drawn; the two short lines and the short arc are
 then deleted, to form a single closed shape.
 
 ..  image:: images/ref-split.png
-    :alt: alternate text
+    :alt: splitting geometry
 
 In order to trim the extra lines, it is necessary to split the entities
 where they intersect.  SolveSpace can split lines, circles, arcs, and
