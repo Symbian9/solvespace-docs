@@ -13,7 +13,7 @@ closed contour.
 Right-drag to pan, center-drag to rotate, and mousewheel to zoom.
 
 To align the view's rotation back to the workplane, choose
-:guilabel:`View --> Align View to Workplane`.
+:menuselection:`View --> Align View to Workplane`.
 
 To select a line, hover the mouse over the line (it turns yellow), and
 left-click (it turns red). To dimension the line's length, choose
